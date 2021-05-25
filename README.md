@@ -11,5 +11,5 @@
 ### Why we prefer JPDB
   #### 1. Minimum development cost
   #### 2. it maximizes the data processing performance.
-## Screenshots
+
 
